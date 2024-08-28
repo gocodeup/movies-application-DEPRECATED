@@ -19,7 +19,7 @@
     "concurrently": "^3.5.0",
     "json-server": "^0.16.1",
     "promise-polyfill": "^6.0.2",
-    "webpack": "4.29.6",
+    "webpack": "5.94.0",
     "webpack-cli": "3.3.0",
     "webpack-dev-server": "3.2.1",
     "whatwg-fetch": "^3.0.0"
